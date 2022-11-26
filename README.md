@@ -20,6 +20,7 @@ ATM program linked Google Cloud MySQL based on C++
 - linked GCP MySQL
 - 
 ![image](https://user-images.githubusercontent.com/76460405/204080701-7a2f605b-9c45-490c-bacc-5139b4572afa.png){: width="111" height="137"}
+<img src="https://user-images.githubusercontent.com/76460405/204080701-7a2f605b-9c45-490c-bacc-5139b4572afa.png" width="111" height="137">
 
 ---
 
