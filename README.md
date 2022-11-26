@@ -31,11 +31,12 @@ See deployment for notes on how to deploy the project on a live system.
 
 ### Installing & Setting
 #### Integrating MySQL with C++ (On Visual Studio)
-1)프로젝트 > 속성 > 구성 속성 > V/C++ 디렉터리 > 포함 디렉터리: Add path MySQL's include directory
-2) 프로젝트 > 속성 > 구성 속성 > V/C++ 디렉터리 > 라이브러리 디렉터리: Add path MySQL's lib directory
-3) 프로젝트 > 속성 > 구성 속성 > 링커 > 입력 > 추가 종속성: Add "libmysql.lib;"
-4) ```#include <mysql.h>```
-ref) https://m.blog.naver.com/PostView.nhn?blogId=jhgkooress33&logNo=221541656631&proxyReferer=https:%2F%2Fwww.google.com%2F
+1. 프로젝트 > 속성 > 구성 속성 > V/C++ 디렉터리 > 포함 디렉터리: Add path MySQL's include directory
+2. 프로젝트 > 속성 > 구성 속성 > V/C++ 디렉터리 > 라이브러리 디렉터리: Add path MySQL's lib directory
+3. 프로젝트 > 속성 > 구성 속성 > 링커 > 입력 > 추가 종속성: Add "libmysql.lib;"
+4. ```#include <mysql.h>```
+
+ref: https://m.blog.naver.com/PostView.nhn?blogId=jhgkooress33&logNo=221541656631&proxyReferer=https:%2F%2Fwww.google.com%2F
 
 #### Connecting Google Cloud Platform
 
