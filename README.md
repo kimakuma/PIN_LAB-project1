@@ -38,7 +38,7 @@ See deployment for notes on how to deploy the project on a live system.
 ref: https://m.blog.naver.com/PostView.nhn?blogId=jhgkooress33&logNo=221541656631&proxyReferer=https:%2F%2Fwww.google.com%2F
 
 #### Connecting Google Cloud Platform
-<img src="https://user-images.githubusercontent.com/76460405/204081577-94c0420a-916c-41d4-b797-e86e99438f9e.png" width="211" height="138">
+<img src="https://user-images.githubusercontent.com/76460405/204081577-94c0420a-916c-41d4-b797-e86e99438f9e.png" width="422" height="276">
 
 ref: https://console.cloud.google.com
 
