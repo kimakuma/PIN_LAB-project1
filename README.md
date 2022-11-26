@@ -8,7 +8,6 @@ ATM program linked Google Cloud MySQL based on C++
 ## Navigation
 1. [Description](#Description)
 2. [Getting started](#Getting-Started)
-3. [Architecture](#Architecture)
 
 ---
 
@@ -39,24 +38,9 @@ See deployment for notes on how to deploy the project on a live system.
 ref: https://m.blog.naver.com/PostView.nhn?blogId=jhgkooress33&logNo=221541656631&proxyReferer=https:%2F%2Fwww.google.com%2F
 
 #### Connecting Google Cloud Platform
+<img src="https://user-images.githubusercontent.com/76460405/204081577-94c0420a-916c-41d4-b797-e86e99438f9e.png" width="211" height="138">
+
 ref: https://console.cloud.google.com
-
-### Running the tests
-```console
-gcc {file_name.cpp} -lasound -Wno-write-strings -o {exe_name}
-```
-
-### docker
-[kimakuma8/ubuntu:project3](https://hub.docker.com/layers/kimakuma8/ubuntu/project3/images/sha256-a7c68cba54a68254646067b6d37e700e0ff1d643d7900beafe8b2a5fcd9ea4f2?context=repo)
-
----
-
-## Architecture
-### Test Scenario
-![image](https://user-images.githubusercontent.com/76460405/202168003-e979e001-38b4-47fa-be5f-8709350d8306.png)
-
-### Test Bed
-![image](https://user-images.githubusercontent.com/76460405/202168300-1d980c54-5547-483f-ba12-6907fcb7ad9a.png)
 
 ---
 
