@@ -18,8 +18,8 @@ ATM program linked Google Cloud MySQL based on C++
     - (User) Deposit, Withdraw, Remit, Check balance, Update bankbook, Create account, Change password 
     - (Admin) Account suspension and suspension cancellation, Change password
 - linked GCP MySQL
-
-![image](https://user-images.githubusercontent.com/76460405/204080688-3a8446d7-472e-4904-a7f6-8bd46342798b.png)
+- 
+![image](https://user-images.githubusercontent.com/76460405/204080701-7a2f605b-9c45-490c-bacc-5139b4572afa.png){: width="111" height="137"}
 
 ---
 
