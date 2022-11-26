@@ -30,6 +30,14 @@ These instructions will get you a copy of the project up and running on your loc
 See deployment for notes on how to deploy the project on a live system.
 
 ### Installing & Setting
+#### Integrating MySQL with C++ (On Visual Studio)
+1. 프로젝트 > 속성 > 구성 속성 > V/C++ 디렉터리 > 포함 디렉터리: Add path MySQL's include directory
+2. 프로젝트 > 속성 > 구성 속성 > V/C++ 디렉터리 > 라이브러리 디렉터리: Add path MySQL's lib directory
+3. 프로젝트 > 속성 > 구성 속성 > 링커 > 입력 > 추가 종속성: Add "libmysql.lib;"
+4. ```C++
+#include <mysql.h>
+```
+
 - Installing the ALSA library used for sound I/O in Linux
     - alsa-utils: Required for sound settings
     - libasound2-dev: Required for sound-related program development
