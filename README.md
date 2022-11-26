@@ -39,24 +39,7 @@ See deployment for notes on how to deploy the project on a live system.
 ref: https://m.blog.naver.com/PostView.nhn?blogId=jhgkooress33&logNo=221541656631&proxyReferer=https:%2F%2Fwww.google.com%2F
 
 #### Connecting Google Cloud Platform
-
-- Installing the ALSA library used for sound I/O in Linux
-    - alsa-utils: Required for sound settings
-    - libasound2-dev: Required for sound-related program development
-```console
-sudo apt-get install alsa-utils
-sudo apt-get install libasound2-dev
-```
-
-- Configuring sound device in the ALSA library
-```console
-aplay -l
-plughw : {card_number},{device_number}
-arecord –l
-plughw : {card_number},{device_number}
-
-alsamixer
-```
+ref: https://console.cloud.google.com
 
 ### Running the tests
 ```console
