@@ -19,7 +19,7 @@ ATM program linked Google Cloud MySQL based on C++
     - (Admin) Account suspension and suspension cancellation, Change password
 - linked GCP MySQL
 
-![image](https://user-images.githubusercontent.com/76460405/204080611-3133a6f9-92d1-4325-9868-538852797d28.png)
+![image](https://user-images.githubusercontent.com/76460405/204080642-6e3a5240-1c93-46b3-be24-0fce1e644a70.png)
 
 ---
 
